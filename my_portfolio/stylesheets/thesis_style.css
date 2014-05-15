@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Condiment|Roboto|Open+Sans);
+
+p {
+	font-family: Open Sans;
+	font-style: italic;
+}
+
+h1 {
+	font-family: Roboto;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: Roboto;
+}
+
+.author {
+	font-family: Condiment;
+}
+
+a {
+	font-size: 10px;
+}
+
+a:hover {
+	color: red;
+}
